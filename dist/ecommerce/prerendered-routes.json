@@ -12,6 +12,7 @@
     "/perfil-del-cliente",
     "/proceso-de-pago",
     "/productos-busqueda",
-    "/register"
+    "/register",
+    "/subscribe"
   ]
 }
