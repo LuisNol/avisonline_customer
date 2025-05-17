@@ -1,6 +1,8 @@
 {
   "routes": [
     "/",
+    "/anuncio",
+    "/blog",
     "/cambiar-credenciales",
     "/carrito-de-compra",
     "/compare-product",
@@ -11,6 +13,7 @@
     "/mercado-pago-success",
     "/perfil-del-cliente",
     "/proceso-de-pago",
+    "/producto",
     "/productos-busqueda",
     "/register",
     "/subscribe"
