@@ -1,0 +1,21 @@
+{
+  "routes": [
+    "/",
+    "/anuncio",
+    "/blog",
+    "/cambiar-credenciales",
+    "/carrito-de-compra",
+    "/compare-product",
+    "/contact",
+    "/login",
+    "/mercado-pago-failure",
+    "/mercado-pago-pending",
+    "/mercado-pago-success",
+    "/perfil-del-cliente",
+    "/proceso-de-pago",
+    "/producto",
+    "/productos-busqueda",
+    "/register",
+    "/subscribe"
+  ]
+}
